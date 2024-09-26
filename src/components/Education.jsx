@@ -33,7 +33,7 @@ const Education = () => {
             </div>
             <div className="md:w-3/4">
               <h4 className="text-xl font-semibold text-gray-800">
-                <span className="text-blue-600">Al mahdi school</span>
+                <span className="text-blue-600">Beirut High School</span>
               </h4>
               <p className="text-gray-700 mt-2">
                 Graduated with honors, with a focus on math and science that set the stage for my programming journey. Excelled in courses that built a strong analytical and problem-solving foundation.
