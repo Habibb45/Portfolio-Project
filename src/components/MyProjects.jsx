@@ -16,7 +16,7 @@ const Projects = [
   {
     title: 'Project Two',
     subtitle:
-      'This project focused on developing an e-commerce platform with fully functional payment gateway. Built with Laravel and Vue.js.',
+      'This project focused on developing an e-commerce platform with fully functional payment gateway. Built with Laravel and Angular.',
     imgsrc: { img2 },
     url: '/',
   },
